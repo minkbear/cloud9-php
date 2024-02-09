@@ -21,7 +21,7 @@ docker compose version
 
 # Install Composer 2
 cd ~
-curl -s https://getcomposer.org/installer | php
+curl -sS https://getcomposer.org/installer | php
 # move composer into a bin directory you control:
 sudo mv composer.phar /usr/local/bin/composer
 composer about
