@@ -5,7 +5,9 @@ prepare for develop php/laravel in cloud9
 # Prerequisites
 ## All-in-one preparation command
 
+```
 curl -s https://raw.githubusercontent.com/minkbear/cloud9-php/main/prepare-php.sh | bash
+```
 
 # FAQ
 
